@@ -1,8 +1,9 @@
+name: osmnx-examples
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - osmnx
+  - osmnx=0.16.0
   - pandas
   - geopandas
   - contextily
