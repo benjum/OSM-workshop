@@ -1,4 +1,0 @@
-osmnx
-pandas
-geopandas
-contextily

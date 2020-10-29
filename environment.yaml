@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - osmnx
+  - pandas
+  - geopandas
+  - contextily
+  
